@@ -1,2 +1,3 @@
 puts "Hello World!"
-end
+
+ruby hello_world.ruby
